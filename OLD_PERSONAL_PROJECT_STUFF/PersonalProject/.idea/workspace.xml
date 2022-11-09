@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a26cf59-143f-49c9-a714-62c9b75a6475" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dTJAL6zj7qocLFzQMHdwFR0CzY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/textures" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20229885" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chad senecal\Desktop\PersonalProject\resources\textures" />
+      <recent name="C:\Users\chad senecal\Desktop\PersonalProject\src\Main" />
+      <recent name="C:\Users\chad senecal\Desktop\PersonalProject\lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chad senecal\Desktop\PersonalProject\resources\textures" />
+      <recent name="C:\Users\chad senecal\Desktop\PersonalProject\resources\shaders" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="PersonalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.object_data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="PersonalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.object_data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a26cf59-143f-49c9-a714-62c9b75a6475" name="Default Changelist" comment="" />
+      <created>1592443004676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592443004676</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="184" key="GridCell.Tab.0.bottom" timestamp="1611518350989">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="184" key="GridCell.Tab.0.bottom/0.-1026.1842.1026/0.0.1920.1080@0.0.1920.1080" timestamp="1611518350989" />
+    <state width="1877" height="184" key="GridCell.Tab.0.center" timestamp="1611518350989">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="184" key="GridCell.Tab.0.center/0.-1026.1842.1026/0.0.1920.1080@0.0.1920.1080" timestamp="1611518350989" />
+    <state width="1877" height="184" key="GridCell.Tab.0.left" timestamp="1611518350989">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="184" key="GridCell.Tab.0.left/0.-1026.1842.1026/0.0.1920.1080@0.0.1920.1080" timestamp="1611518350989" />
+    <state width="1877" height="184" key="GridCell.Tab.0.right" timestamp="1611518350989">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="184" key="GridCell.Tab.0.right/0.-1026.1842.1026/0.0.1920.1080@0.0.1920.1080" timestamp="1611518350989" />
+    <state width="1877" height="361" key="GridCell.Tab.1.bottom" timestamp="1610332280396">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="361" key="GridCell.Tab.1.bottom/0.-1026.1842.1026/0.0.1920.1080@0.0.1920.1080" timestamp="1610332280396" />
+    <state width="1877" height="361" key="GridCell.Tab.1.center" timestamp="1610332280396">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="361" key="GridCell.Tab.1.center/0.-1026.1842.1026/0.0.1920.1080@0.0.1920.1080" timestamp="1610332280396" />
+    <state width="1877" height="361" key="GridCell.Tab.1.left" timestamp="1610332280396">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="361" key="GridCell.Tab.1.left/0.-1026.1842.1026/0.0.1920.1080@0.0.1920.1080" timestamp="1610332280396" />
+    <state width="1877" height="361" key="GridCell.Tab.1.right" timestamp="1610332280396">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="361" key="GridCell.Tab.1.right/0.-1026.1842.1026/0.0.1920.1080@0.0.1920.1080" timestamp="1610332280396" />
+    <state x="656" y="365" width="607" height="356" key="com.intellij.ide.util.TipDialog" timestamp="1612152883268">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="365" width="607" height="356" key="com.intellij.ide.util.TipDialog/0.-1026.1842.1026/0.0.1920.1080@0.0.1920.1080" timestamp="1611517098178" />
+    <state x="656" y="365" key="com.intellij.ide.util.TipDialog/938.-1026.1842.1026/0.0.1920.1080@0.0.1920.1080" timestamp="1612152883268" />
+    <state x="666" y="169" key="refactoring.ChangeSignatureDialog" timestamp="1607909425102">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="666" y="169" key="refactoring.ChangeSignatureDialog/0.-1026.1842.1026/0.0.1920.1080@0.0.1920.1080" timestamp="1607909425102" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1610327888814">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.-1026.1842.1026/0.0.1920.1080@0.0.1920.1080" timestamp="1610327888814" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PersonalProject$Main.ic" NAME="Main Coverage Results" MODIFIED="1598758389033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Main.*</FILTER>
+    </SUITE>
+  </component>
+</project>
